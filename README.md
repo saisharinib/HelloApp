@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HelloApp
 
 ## Overview
@@ -18,3 +19,6 @@ javac -d bin src/HelloApp.java
 
 Run:
 java -cp bin HelloApp
+=======
+# HelloApp
+>>>>>>> e085ef96eef66547c88a38abdab7cf08d84c41cc
